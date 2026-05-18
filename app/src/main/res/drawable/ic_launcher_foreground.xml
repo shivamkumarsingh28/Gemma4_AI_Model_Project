@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer circle/shield for professional look -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+
+    <!-- Medical Cross -->
+    <path
+        android:fillColor="#1D9E75"
+        android:pathData="M44,72h20v-11h20v-14h-20v-11h-20v11h-20v14h20z" />
+
+    <!-- "AI" text effect (stylized dots inside the cross) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,52h3v3h-3z M57,52h3v3h-3z" />
+</vector>

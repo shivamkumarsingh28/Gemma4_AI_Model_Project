@@ -1,0 +1,26 @@
+# Gradle and Android Studio
+*.iml
+/.gradle
+/.idea/
+/.kotlin/
+
+# Local SDK and machine-specific files
+/local.properties
+local.properties
+.DS_Store
+
+# Build outputs
+/build/
+/app/build/
+/captures/
+/.externalNativeBuild/
+/.cxx/
+/app/.cxx/
+
+# Signing and secrets
+*.jks
+*.keystore
+key.properties
+
+# Crash and debug artifacts
+*.hprof
