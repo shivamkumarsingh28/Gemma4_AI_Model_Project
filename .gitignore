@@ -1,0 +1,4 @@
+.venv
+llama.cpp
+gemma4-e2b_model
+model_fine_tune_gguf
