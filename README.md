@@ -1,5 +1,5 @@
 # Gemma 4 Fine-Tuning & Web App Integration Guide
-
+## Final Project Demo - [click here](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/dr-ai-medical-assistant)
 ## Table of Contents
 1. [Fine-Tuning Gemma 4](#fine-tuning-gemma-4)
 2. [Integration with Web App](#integration-with-web-app)
